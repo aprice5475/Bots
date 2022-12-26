@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "devDependencies": {
+        "puppeteer": "19.4.1"
+    },
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}
